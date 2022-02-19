@@ -70,3 +70,9 @@
 .copyright {
     font-family: 'Spartan', sans-serif !important;
 }
+
+@media (min-width: 600px) {
+    footer {
+        font-size: 1.25rem;
+    }
+}
