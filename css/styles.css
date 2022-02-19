@@ -8,7 +8,7 @@
 }
 
 #jumbotron5 {
-    background: url(/img/Contact/IMG_8757.JPG) no-repeat center / contain;
+    background: url(/img/Contact/Raw-test.jpg)  no-repeat center / contain;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -51,6 +51,10 @@
     background-size: cover;
   }
 
+#carousel {
+    background-size: cover !important;
+}
+
 .navbar-title {
     font-family: 'Spartan', sans-serif !important;
   }
@@ -69,6 +73,15 @@
 
 .copyright {
     font-family: 'Spartan', sans-serif !important;
+}
+
+.shadow-effect {
+    text-shadow: 20px 16px 14px rgb(1, 2, 2) !important;
+}
+
+.paragraph {
+    font-family: 'Spartan', sans-serif !important;
+    font-size: x-large !important;
 }
 
 @media (min-width: 600px) {
