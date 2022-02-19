@@ -1,5 +1,50 @@
-#jumbotron {
-    background: #ecf1f5 url("/img/Paralax/matthew-brodeur-eJ9mX6yEbAw-unsplash.jpg") no-repeat center / contain;
+#jumbotron6 {
+    background: url(/img/Nature/2016\ Virginia\ Trip-77.jpg) no-repeat center / contain;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity:.50;
+}
+
+#jumbotron5 {
+    background: url(/img/Contact/IMG_8757.JPG) no-repeat center / contain;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity:.50;
+}
+
+
+#jumbotron4 {
+    background: url(/img/City/DSC_0441.JPG) no-repeat center / contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity:.50;
+}
+
+#jumbotron3 {
+    background: url(/img/Wedding/bride2.jpg) no-repeat center / contain;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity:.50;
+}
+
+#jumbotron2 {
+    background: url(/img/Auto/DSC_1072.JPG) no-repeat center / contain;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity:.50;
+}
+
+#jumbotron1 {
+    background: rgba(0, 0, 0, 0.933) no-repeat center / contain;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -7,15 +52,21 @@
   }
 
 .navbar-title {
-    font-family: 'Archivo Black', sans-serif; 
-    color:red;
+    font-family: 'Spartan', sans-serif !important;
   }
 
-.navbar-item {
-    font-family: 'Spartan', sans-serif;
+.nav-item {
+    font-family: 'Spartan', sans-serif !important;
 }
 
-.a {
-    font-family: 'Spartan', sans-serif;
+.introduction {
+    font-family: 'Cinzel Decorative', sans-serif !important;
 }
 
+.carousel-item {
+    font-family:'Cinzel Decorative', sans-serif !important;
+}
+
+.copyright {
+    font-family: 'Spartan', sans-serif !important;
+}
